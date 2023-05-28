@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="category_icon">
+        <item>@drawable/ic_category_restaurant</item>
+        <item>@drawable/ic_category_pet</item>
+        <item>@drawable/ic_category_refueling</item>
+        <item>@drawable/ic_category_house</item>
+        <item>@drawable/ic_category_investment</item>
+        <item>@drawable/ic_category_deposit</item>
+        <item>@drawable/ic_category_video_game</item>
+        <item>@drawable/ic_category_products</item>
+        <item>@drawable/ic_category_small_house</item>
+        <item>@drawable/ic_category_fitness</item>
+        <item>@drawable/ic_category_med</item>
+        <item>@drawable/ic_category_phone</item>
+        <item>@drawable/ic_category_traffic</item>
+        <item>@drawable/ic_category_bonus</item>
+        <item>@drawable/ic_category_other</item>
+    </array>
+</resources>
